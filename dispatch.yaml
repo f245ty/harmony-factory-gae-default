@@ -1,0 +1,3 @@
+dispatch:
+  - url: "*/camp"
+    service: acappella-camp
